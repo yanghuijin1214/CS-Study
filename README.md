@@ -10,6 +10,7 @@
 | 양희진 | [@yanghuijin1214](https://github.com/yanghuijin1214) |
 | 조수화 | [@suhwajo](https://github.com/suhwajo) |
 | 황수빈 | [@marybin99](https://github.com/marybin99) |
+| 나유진 | [@]() |
 
 <br>
 <br>
@@ -20,6 +21,9 @@
 
 > 2주차 (2022-12-26)
 - 디자인패턴(프록시패턴, 이터레이터 패턴, 노출모듈 패턴, MVC 패턴, MVVM 패턴)
+
+> 3주차 (2023-01-02)
+- 프로그래밍 패러다임
 
 <br>
 <br>
