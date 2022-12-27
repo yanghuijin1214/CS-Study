@@ -3,7 +3,7 @@
 - MVC 의 C (Controller) 가 뷰 모델 (View model) 로 바뀐 패턴.
 - ViewModel이 View 와 Model의 중간 계층 역할을 한다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/302700a6-4a05-410e-b5d0-e6dbccaed4f5/Untitled.png)
+![Untitled](./image/mvvm.png)
 
 뷰모델 → 뷰를 더 추상화한 계층. 
 
