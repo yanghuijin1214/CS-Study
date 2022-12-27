@@ -10,7 +10,7 @@
 | 양희진 | [@yanghuijin1214](https://github.com/yanghuijin1214) |
 | 조수화 | [@suhwajo](https://github.com/suhwajo) |
 | 황수빈 | [@marybin99](https://github.com/marybin99) |
-| 나유진 | [@]() |
+| 나유진 | [@nayu1105](https://github.com/nayu1105) |
 
 <br>
 <br>
