@@ -25,6 +25,9 @@
 > 3주차 (2023-01-02)
 - 프로그래밍 패러다임
 
+> 4주차 (2023-01-09)
+- 네트워크의 기초
+
 <br>
 <br>
 
@@ -43,6 +46,15 @@
 - [MVP 패턴](./DesignPattern/MVP패턴.md)
 - [MVVM 패턴](./DesignPattern/MVVM패턴.md)
 - [질문 정리](./DesignPattern/면접질문리스트.md)
+
+<br>
+
+### 프로그래밍 패러다임
+- [프로그래밍 패러다임 개요](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20%EA%B0%9C%EC%9A%94.md)
+- [선언형과 함수형 프로그래밍](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84/%EC%84%A0%EC%96%B8%ED%98%95%EA%B3%BC%20%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+- [객체지향 프로그래밍](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+- [절차지향 프로그래밍](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84/%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+- [패러다임의 혼합](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84/%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%EC%9D%98%20%ED%98%BC%ED%95%A9.md)
 
 <br>
 <br>
