@@ -28,6 +28,12 @@
 > 4주차 (2023-01-09)
 - 네트워크의 기초
 
+> 5주차 (2023-01-17)
+- TCP/IP 4계층 모델 - 인터넷 계층까지
+
+> 7주차 (2023-02-01)
+- TCP/IP 계층 모델 - 링크계층 ~, 네트워크 기기 
+
 <br>
 <br>
 
@@ -60,13 +66,18 @@
 <br>
 <br>
 
-### 네트워크의 기초
-- [처리량과 지연시간](/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88//%EC%B2%98%EB%A6%AC%EB%9F%89%EA%B3%BC%20%EC%A7%80%EC%97%B0%EC%8B%9C%EA%B0%84.md)
-- [네트워크 토폴로지와 병목현상](./%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80%20%EB%B3%91%EB%AA%A9%20%ED%98%84%EC%83%81.md)
-- [네트워크 분류](./%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98.md)
-- [네트워크 성능 분석 명령어](./%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
-- [네트워크 프로토콜 표준화](./%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%20%ED%91%9C%EC%A4%80%ED%99%94.md)
-- [질문 정리](./%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88//%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+### 네트워크
+- [처리량과 지연시간](./네트워크/%EC%B2%98%EB%A6%AC%EB%9F%89%EA%B3%BC%20%EC%A7%80%EC%97%B0%EC%8B%9C%EA%B0%84.md)
+- [네트워크 토폴로지와 병목현상](./네트워크/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80%20%EB%B3%91%EB%AA%A9%20%ED%98%84%EC%83%81.md)
+- [네트워크 분류](./네트워크/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98.md)
+- [네트워크 성능 분석 명령어](./네트워크/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+- [네트워크 프로토콜 표준화](./네트워크/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%20%ED%91%9C%EC%A4%80%ED%99%94.md)
+- [계층 구조](./네트워크/%EA%B3%84%EC%B8%B5%20%EA%B5%AC%EC%A1%B0.md)
+- [네트워크 기기](./네트워크/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EA%B8%B0.md)
+- [질문 정리](./네트워크/%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+
+
+
 
 ## 📚 참고도서
 면접을 위한 cs 전공지식 노트
