@@ -10,7 +10,6 @@ SSAFY 8기 얼렁뚱땅 CS 스터디!
 | ------ | ---------------------------------------------------- |
 | 성정언 | [@sungjeongeon](https://github.com/sungjeongeon)     |
 | 양희진 | [@yanghuijin1214](https://github.com/yanghuijin1214) |
-| 조수화 | [@suhwajo](https://github.com/suhwajo)               |
 | 황수빈 | [@marybin99](https://github.com/marybin99)           |
 | 나유진 | [@nayu1105](https://github.com/nayu1105)             |
 
@@ -50,6 +49,14 @@ SSAFY 8기 얼렁뚱땅 CS 스터디!
 > 9주차 (2023-02-15)
 
 - HTTP
+
+> 10주차 (2023-02-15)
+
+- 운영체제 - 운영체제와 컴퓨터
+
+> 11주차 (2023-03-01)
+
+- 운영체제 - 메모리
 
 <br>
 <br>
