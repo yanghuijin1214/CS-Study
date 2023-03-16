@@ -62,6 +62,10 @@ SSAFY 8기 얼렁뚱땅 CS 스터디!
 
 - 운영체제 - 프로세스와 스레드
 
+> 13주차 (2023-03-16)
+
+- 운영체제 - 스레드 & CPU 스케줄링 알고리즘
+
 <br>
 <br>
 
@@ -116,24 +120,26 @@ SSAFY 8기 얼렁뚱땅 CS 스터디!
 - [HTTP3](./%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTP3.md)
 - [질문 정리](./네트워크/%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 
-
 <br>
 <br>
 
 ### 운영체제
-- 
+
 - [메모리](./운영체제/메모리.md)
 - [프로세스와 스레드](./운영체제/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 - [프로세스와 컴파일 과정](./운영체제/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
 - [프로세스의 상태](./운영체제/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98%20%EC%83%81%ED%83%9C.md)
 - [프로세스의 메모리 구조](./운영체제/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md)
-- [PCB](./운영체제/PCB(Process%20Control%20Block).md)
+- [PCB](<./운영체제/PCB(Process%20Control%20Block).md>)
 - [멀티프로세싱](./운영체제/%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1.md)
+- [스테드와멀티스레딩](./%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%94%A9.md)
+- [공유자원과임계영역](./%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EA%B3%B5%EC%9C%A0%EC%9E%90%EC%9B%90%EA%B3%BC%EC%9E%84%EA%B3%84%EC%98%81%EC%97%AD.md)
+- [교착상태](./%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C.md)
+- [CPU스케줄링알고리즘](./%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 - [질문 정리](./운영체제/%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 
 <br>
 <br>
-
 
 ## 📚 참고도서
 
